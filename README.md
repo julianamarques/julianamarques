@@ -1,48 +1,54 @@
-### Hi there 👋
+## Juliana Marques
 
-[PT-BR] Meu nome é Juliana Marques, Full Stack Jr developer, atualmente cursando o 5º semestre de Análise e Desenvolvimento de Sistemas no IFPI - Instituto Federal do Piauí. Estou sempre aprimorando meu conhecimento técnico e buscando impactar pessoas através da tecnologia.
+🇧🇷 Desenvolvedora de software de Teresina - PI, com conhecimento em diversas linguagens de programação, atualmente com foco em Java, utilizando o framework Spring Boot e também atuando com JavaEE no Backend. No frontend, foco é no framework Angular e JSF + Primefaces para JavaEE.
 
-[EN] My name is Juliana Marques, Full Stack Jr developer, currently attending the 5th semester of Systems Analysis and Development at IFPI - Instituto Federal do Piauí. I'm always improving my technical knowledge and looking to impact people through technology.
+🇬🇧 Software developer from Teresina - PI, with knowledge of several programming languages, currently focusing on Java, using the Spring Boot framework and also working with JavaEE in the Backend. On the frontend, the focus is on the Angular framework and JSF + Primefaces for JavaEE.
 
-### Stacks
+### Tecnologias (Technologies)
+
+#### Backend
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring" alt="spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML 5" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS 3" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="angular" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" title="Ionic" alt="ionic" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/subversion/subversion-original.svg" title="Subversion" alt="subversion" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/java/original-wordmark.svg" title="Java" alt="java" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/python/original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg?color=%2327A172" title="Django" alt="django" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/spring/original-wordmark.svg" title="Spring" alt="spring" width="40" height="40"/>
 </div>
 
-### Contacts
+#### Frontend
 
+<div>
+  <img src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg" title="HTML5" alt="html5" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg" title="CSS3" alt="css3" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/javascript/plain.svg" title="Java Script" alt="javascript" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" title="Angular" alt="angular" width="40" height="40"/>
+</div>
+
+#### Bancos de Dados (Database)
+
+<div>
+  <img src="https://devicon-website.vercel.app/api/postgresql/plain-wordmark.svg" title="PostgreSQL" alt="postgresql" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF4163" title="SQLServer" alt="sqlserver" width="40" height="40"/>
+</div>
+
+#### Ferramentas (Tools)
+
+<div>
+  <img src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg" title="Git" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/subversion/subversion-plain-wordmark.svg" title="subversion" alt="Subversion" width="40" height="40"/>
+  <img src="https://devicon-website.vercel.app/api/docker/plain-wordmark.svg" title="Docker" alt="docker" width="40" height="40"/>
+</div>
+
+### Contatos (Contacts)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianabmarques@live.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianabmarques/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/julianamarques)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianabmarques@live.com)
 
-<hr>
+### Estatísticas Github (Github Stats)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/airtonsena/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=julianamarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamarques&layout=compact&langs_count=16&theme=tokyonight"/>
+<div>
+  <a href="https://github.com/julianamarques">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamarques&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianamarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
 </div>
-
-<!--
-**julianamarques/julianamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
