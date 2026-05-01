@@ -28,52 +28,85 @@
 
 ### 💻 Tech Stack
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="8">
+<table>
     <tr>
       <td align="center" width="140"><b>Backend</b></td>
       <td>
-        <table border="0" cellspacing="0" cellpadding="8"><tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/><sub>Java</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring"/><br/><sub>Spring</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/><sub>Python</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
-        </tr></table>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238; border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">Java</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring"/>
+          <span style="margin-top:6px; font-size:12px; color: white;">Spring</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/>
+          <span style="margin-top:6px; font-size: 12px; color: white;">Python</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">FastAPI</span>
+        </div>
       </td>
     </tr>
     <tr>
       <td align="center" width="140"><b>DevOps</b></td>
       <td>
-        <table border="0" cellspacing="0" cellpadding="8"><tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br/><sub>Docker</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/><sub>Git</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="Github Actions"/><br/><sub>Github&nbsp;Actions</sub></td>
-        </tr></table>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/>
+          <span style="margin-top:6px; font-size:12px; color:white;">Docker</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">Git</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 85px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="Github Actions"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">Github Actions</span>
+        </div>
       </td>
     </tr>
     <tr>
-      <td align="center" width="140"><b>Data &amp; Messaging</b></td>
+      <td align="center" width="140"><b>Data & Messaging</b></td>
       <td>
-        <table border="0" cellspacing="0" cellpadding="8"><tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="42" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
-          <td align="center"><img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF4163" width="42" alt="SQL Server"/><br/><sub>SQL&nbsp;Server</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="42" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></td>
-        </tr></table>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=postgresql" width="42" alt="PostgreSQL"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">PostgreSQL</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF4163" width="42" alt="SQL Server"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">SQL Server</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=rabbitmq" width="42" alt="RabbitMQ"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">RabbitMQ</span>
+        </div>
       </td>
     </tr>
     <tr>
       <td align="center" width="140"><b>Frontend</b></td>
       <td>
-        <table border="0" cellspacing="0" cellpadding="8"><tr>
-          <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="42" alt="Angular"/><br/><sub>Angular</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/><sub>React</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
-          <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
-        </tr></table>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=angular" width="42" alt="Angular"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">Angular</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">React</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">TypeScript</span>
+        </div>
+        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
+          <img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"/>
+          <span style="margin-top: 6px; font-size: 12px; color: white;">JavaScript</span>
+        </div>
       </td>
     </tr>
   </table>
-</div>
+
 ---
 
 ### 📈 Github Stats
