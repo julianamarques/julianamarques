@@ -29,80 +29,51 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="8">
     <tr>
       <td align="center" width="140"><b>Backend</b></td>
       <td>
-        <table><tr>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/><sub>Java</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring"/><br/><sub>Spring</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/><sub>Python</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/><sub>FastAPI</sub>
-          </td>
+        <table border="0" cellspacing="0" cellpadding="8"><tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/><sub>Java</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring"/><br/><sub>Spring</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/><sub>Python</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/><sub>FastAPI</sub></td>
         </tr></table>
       </td>
     </tr>
     <tr>
       <td align="center" width="140"><b>DevOps</b></td>
       <td>
-        <table><tr>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br/><sub>Docker</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/><sub>Git</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="Github Actions"/><br/><sub>Github Actions</sub>
-          </td>
+        <table border="0" cellspacing="0" cellpadding="8"><tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br/><sub>Docker</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/><sub>Git</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="Github Actions"/><br/><sub>Github&nbsp;Actions</sub></td>
         </tr></table>
       </td>
     </tr>
     <tr>
-      <td align="center" width="140"><b>Data & Messaging</b></td>
+      <td align="center" width="140"><b>Data &amp; Messaging</b></td>
       <td>
-        <table><tr>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=postgresql" width="42" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF4163" width="42" alt="SQL Server"/><br/><sub>SQL Server</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=rabbitmq" width="42" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub>
-          </td>
+        <table border="0" cellspacing="0" cellpadding="8"><tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="42" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub></td>
+          <td align="center"><img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF4163" width="42" alt="SQL Server"/><br/><sub>SQL&nbsp;Server</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="42" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub></td>
         </tr></table>
       </td>
     </tr>
     <tr>
       <td align="center" width="140"><b>Frontend</b></td>
       <td>
-        <table><tr>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=angular" width="42" alt="Angular"/><br/><sub>Angular</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/><sub>React</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"/><br/><sub>TypeScript</sub>
-          </td>
-          <td align="center" width="80">
-            <img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"/><br/><sub>JavaScript</sub>
-          </td>
+        <table border="0" cellspacing="0" cellpadding="8"><tr>
+          <td align="center"><img src="https://skillicons.dev/icons?i=angular" width="42" alt="Angular"/><br/><sub>Angular</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/><sub>React</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+          <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
         </tr></table>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ### 📈 Github Stats
