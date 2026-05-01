@@ -33,77 +33,71 @@
     <tr>
       <td align="center" width="140"><b>Backend</b></td>
       <td>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238; border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">Java</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring"/>
-          <span style="margin-top:6px; font-size:12px; color: white;">Spring</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/>
-          <span style="margin-top:6px; font-size: 12px; color: white;">Python</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">FastAPI</span>
-        </div>
+        <table><tr>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java"/><br/><sub>Java</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=spring" width="42" alt="Spring"/><br/><sub>Spring</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/><br/><sub>Python</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/><br/><sub>FastAPI</sub>
+          </td>
+        </tr></table>
       </td>
     </tr>
     <tr>
       <td align="center" width="140"><b>DevOps</b></td>
       <td>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/>
-          <span style="margin-top:6px; font-size:12px; color:white;">Docker</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">Git</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 85px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="Github Actions"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">Github Actions</span>
-        </div>
+        <table><tr>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/><br/><sub>Docker</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/><br/><sub>Git</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="Github Actions"/><br/><sub>Github Actions</sub>
+          </td>
+        </tr></table>
       </td>
     </tr>
     <tr>
       <td align="center" width="140"><b>Data & Messaging</b></td>
       <td>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=postgresql" width="42" alt="PostgreSQL"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">PostgreSQL</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF4163" width="42" alt="SQL Server"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">SQL Server</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=rabbitmq" width="42" alt="RabbitMQ"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">RabbitMQ</span>
-        </div>
+        <table><tr>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=postgresql" width="42" alt="PostgreSQL"/><br/><sub>PostgreSQL</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF4163" width="42" alt="SQL Server"/><br/><sub>SQL Server</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=rabbitmq" width="42" alt="RabbitMQ"/><br/><sub>RabbitMQ</sub>
+          </td>
+        </tr></table>
       </td>
     </tr>
     <tr>
       <td align="center" width="140"><b>Frontend</b></td>
       <td>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=angular" width="42" alt="Angular"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">Angular</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">React</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">TypeScript</span>
-        </div>
-        <div style="display: inline-flex; flex-direction: column; align-items: center; justify-content: center; width: 70px; height: 70px; background: #162238;border-radius: 14px; padding: 5px;">
-          <img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"/>
-          <span style="margin-top: 6px; font-size: 12px; color: white;">JavaScript</span>
-        </div>
+        <table><tr>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=angular" width="42" alt="Angular"/><br/><sub>Angular</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=react" width="42" alt="React"/><br/><sub>React</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=typescript" width="42" alt="TypeScript"/><br/><sub>TypeScript</sub>
+          </td>
+          <td align="center" width="80">
+            <img src="https://skillicons.dev/icons?i=javascript" width="42" alt="JavaScript"/><br/><sub>JavaScript</sub>
+          </td>
+        </tr></table>
       </td>
     </tr>
   </table>
@@ -114,12 +108,9 @@
 ### 📈 Github Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=julianamarques&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
+  <img width="85%" src="https://streak-stats.demolab.com/?user=julianamarques&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
 
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianamarques&theme=react" alt="Profile Summary"/>
 
   <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianamarques&theme=react" alt="Languages by Repo"/>
 </div>
-
-
-
