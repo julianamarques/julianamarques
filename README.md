@@ -71,9 +71,7 @@ I am interested in software architecture, backend performance, scalability, clea
 ## 📈 Github Stats
 
 <div align="center">
-  <img width="85%" src="https://streak-stats.demolab.com/?user=julianamarques&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
-
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianamarques&theme=react" alt="Profile Summary"/>
-
-  <img width="85%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianamarques&theme=react" alt="Languages by Repo"/>
+  <img height="150" src="https://streak-stats.demolab.com/?user=julianamarques&theme=react&hide_border=true" alt="GitHub Streak Stats"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianamarques&theme=react" alt="Profile Summary"/>
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=julianamarques&theme=react" alt="Languages by Repo"/>
 </div>
